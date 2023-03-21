@@ -13,13 +13,27 @@ In order to successfully run the code chunks in the Jupyter notebook, a few pack
 
 ## Data
 
+### Overview
+
 The original dataset is a garbage classification dataset that was downloaded from [Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification) and was published in 2019. The six garbage classifications found in the data and their corresponding number of images are as follows: cardboard (393), glass (491), metal (400), paper (584), plastic (472) and trash (127). Due to the comparably smaller number of trash images found in this dataset, we decided to replace our current trash classification images with the trash and biological category of [another dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)  found on Kaggle to even out our classes, which left us with 1,682 images of trash. In total we have 3,102 observations of garbage images, which we separated into two classes before exploring our research question: recyclables (2,390), trash (1,682). The recyclable class was formed from grouping together the other five categories aside from trash.  
+
+### Dictionary
+
+| Folder  | Description  |
+|---|---|
+| recycle  | 2390 JPG images of recyclable waste, including images of paper, plastic, metal, cardboard, and glass |
+| trash  | 1682 JPG images of trash, including biological waste |
+
 
 ## Figures
 
 ## References
 [1] D. Rausch, “EDA for Image Classification,” Geek Culture, Apr. 15, 2021. https://medium.com/geekculture/eda-for-image-classification-dcada9f2567a (accessed Mar. 16, 2023).
+
 [2] Chang, “Garbage Classification.” https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification (accessed Mar. 16, 2023).
+
 [3] Mostafa Mohamed, “Garbage Classification (12 classes).” https://www.kaggle.com/datasets/mostafaabla/garbage-classification (accessed Mar. 16, 2023).
+
 [4] N. Lang, “Using Convolutional Neural Network for Image Classification,” Medium, Apr. 28, 2022. https://towardsdatascience.com/using-convolutional-neural-network-for-image-classification-5997bfd0ede4 (accessed Mar. 16, 2023).
+
 [5] B. Adhikari, “Python Splitter,” GitHub, Mar. 14, 2023. https://github.com/bharatadk/python_splitter  (accessed Mar. 16, 2023).
