@@ -37,3 +37,11 @@ The original dataset is a garbage classification dataset that was downloaded fro
 [4] N. Lang, “Using Convolutional Neural Network for Image Classification,” Medium, Apr. 28, 2022. https://towardsdatascience.com/using-convolutional-neural-network-for-image-classification-5997bfd0ede4 (accessed Mar. 16, 2023).
 
 [5] B. Adhikari, “Python Splitter,” GitHub, Mar. 14, 2023. https://github.com/bharatadk/python_splitter  (accessed Mar. 16, 2023).
+
+[6] A. H, “Image classification using CNN for Beginners,” Kaggle, 27-Aug-2021. [Online]. Available: https://www.kaggle.com/code/anandhuh/image-classification-using-cnn-for-beginners/notebook. (Accessed: 21-Mar-2023). 
+
+[7] J. McDermott, “Convolutional Neural Networks - image classification W. Keras,” Learn Data Science - Tutorials, Books, Courses, and More. [Online]. Available: https://www.learndatasci.com/tutorials/convolutional-neural-networks-image-classification/. (Accessed: 21-Mar-2023). 
+
+[8] K. Team, “Keras documentation: The Sequential class,” keras.io. https://keras.io/api/models/sequential/. (Accessed: 21-Mar-2023). 
+
+[9] N. Lang, “Using Convolutional Neural Network for Image Classification,” Medium, Apr. 28, 2022. https://towardsdatascience.com/using-convolutional-neural-network-for-image-classification-5997bfd0ede4. (Accessed: 21-Mar-2023). 
