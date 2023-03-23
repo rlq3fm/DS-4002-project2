@@ -26,6 +26,9 @@ The original dataset is a garbage classification dataset that was downloaded fro
 
 
 ## Figures
+| Figure  | Takeaway  |
+|---|---|
+| Validation Accuracy Graph | After the model was trained for three epochs, it was determined that the accurary for the testing dataset was about 93%. Overfitting was avoided as the testing accuracy was higher than the training accuracy. |
 
 ## References
 [1] D. Rausch, “EDA for Image Classification,” Geek Culture, Apr. 15, 2021. https://medium.com/geekculture/eda-for-image-classification-dcada9f2567a (accessed Mar. 16, 2023).
