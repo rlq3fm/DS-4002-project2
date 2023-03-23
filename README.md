@@ -45,3 +45,5 @@ The original dataset is a garbage classification dataset that was downloaded fro
 [8] K. Team, “Keras documentation: The Sequential class,” keras.io. https://keras.io/api/models/sequential/. (Accessed: 21-Mar-2023). 
 
 [9] N. Lang, “Using Convolutional Neural Network for Image Classification,” Medium, Apr. 28, 2022. https://towardsdatascience.com/using-convolutional-neural-network-for-image-classification-5997bfd0ede4. (Accessed: 21-Mar-2023). 
+
+[10] [1]“Overfitting in CNNs | Learn different ways to Treat Overfitting in CNNs,” Analytics Vidhya, Sep. 07, 2020. https://www.analyticsvidhya.com/blog/2020/09/overfitting-in-cnn-show-to-treat-overfitting-in-convolutional-neural-networks/. (Accessed: 32-Mar-2023).
